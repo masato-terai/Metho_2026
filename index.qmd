@@ -67,9 +67,31 @@ title-slide-attributes:
 
 # 1. ベイズ統計学の利用があまり広がらない背景の考察{background="#1F4E79"}
 
-## 過去３年間の外国語教育関係論文の動向
+## 外国語教育研究の実態調査
 
-- LL、SSLA、MLJ
+- 国内外の学術誌（最新の巻のみを対象、2026年9月24日現在）
+
+- Research Article、Original Articleセクションに掲載の論文のみを対象
+
+  - 外国語教育メディア学会機関誌（2025年62巻） 
+
+  - JASELE Journal（2026年37巻）
+
+  - JACET Journal（2025年69巻）
+
+  - Language Learning (2026年76巻1～3号)
+
+  - Studies in Second Language Acquisition (2026年48巻S1～3号)
+
+  - Modern Language Journal (2026年110巻S1～3号)
+
+## 外国語教育研究の実態調査
+
+![](Fig_Statistics.png)
+
+## 外国語教育研究の実態調査
+
+![](Fig_Which.png)
 
 ## 原因（１）：ベイズ統計学の方が難しいという偏見
 
