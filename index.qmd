@@ -24,7 +24,7 @@ format:
     chalkboard: 
       buttons: false
 title-slide-attributes:
-  data-background-image: title_image.png
+  data-background-image: fig/title_image.png
   data-background-size: cover
   data-background-opacity: "0.15"
 ---
@@ -84,11 +84,11 @@ title-slide-attributes:
 
 ## 文献調査
 
-![](Fig_Statistics.png)
+![](fig/Fig_Statistics.png)
 
 ## 文献調査
 
-![](Fig_Which.png)
+![](fig/Fig_Which.png)
 
 ## アンケート調査
 - 言語系の研究者を対象にアンケート調査（ *N* = 17 ）
@@ -104,7 +104,7 @@ title-slide-attributes:
 ## アンケート調査
 > 頻度主義統計学で分析する理由（複数選択）
 
-![](Fig_Q_F.png)
+![](fig/Fig_Q_F.png)
 
 ## アンケート調査
 
@@ -115,14 +115,14 @@ title-slide-attributes:
 ## アンケート調査
 > ベイズ統計を使用しない、または使用する機会が少ない理由（複数選択）
 
-![](Fig_Q_B.png)
+![](fig/Fig_Q_B.png)
 
 
 ## アンケート調査
-![](Fig_Q_BwantL.png)
+![](fig/Fig_Q_BwantL.png)
 
 ## アンケート調査
-![](Fig_Q_Bmerit.png)
+![](fig/Fig_Q_Bmerit.png)
 
 ## まとめると...
 
@@ -231,4 +231,4 @@ $$
 
 - 解決策として、講義レベルでの工夫、分野全体での工夫などが挙げられる。
 
-# {background-image="title_image.png" background-repeat="no-repeat"}
+# {background-image="fig/title_image.png" background-repeat="no-repeat"}
