@@ -46,14 +46,10 @@ $code-block-font-size: 1em;
   .subtitle,
   .quarto-title-author {
   display: inline-block;
-  //flex-direction: column;   // 縦並び
-  //justify-content: center;  // 垂直中央
-  //align-items: center;      // 水平中央 
   text-align: center;
-  background-color: rgb(55, 56, 56);
-  color: #FFFFFF;
+  color: #0f0f0fe7;
   //letter-spacing: 0.04em;
-  padding: 0.3em;  
+  padding: 0.2em;  
   }
 }
 
